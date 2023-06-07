@@ -7,8 +7,6 @@ Created on Sun Jan 29 11:11:21 2023
 
 import streamlit as st
 import pandas as pd
-from sklearn.metrics import mean_squared_error
-from sklearn.metrics import mean_absolute_error
 import numpy as np
 # Fix the random seed
 np.random.seed(1234)
